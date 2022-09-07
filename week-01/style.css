@@ -1,0 +1,43 @@
+body {
+
+    background-color: black;
+
+}
+
+@font-face{
+    font-family: "ZenDots";
+    src: url("Zendots-Regular.ttf");
+
+ 
+  }
+
+
+@font-face {
+  
+    font-family: "PixelType";
+    src: url("PixelType.ttf");
+
+  }
+
+
+h1{
+    color: rgb(0, 109, 36);
+    font-family: "ZenDots";
+    font-size: 180pt;
+}
+
+h2 {
+
+    color: rgb(0, 255, 85);
+    font-family: "ZenDots";
+    font-size: 130pt;
+
+}
+
+p {
+
+    color: white;
+    font-family: "PixelType";
+    font-size: 80pt;
+
+}
